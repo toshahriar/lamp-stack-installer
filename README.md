@@ -1,1 +1,1 @@
-# lamp-stack-setup-shell-script
+# lamp-stack-installer
